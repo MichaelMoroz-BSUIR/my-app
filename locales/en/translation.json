@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "photographers": "Photographers",
+    "desc": "Site Description",
+    "daily": "Photographer of the day",
+    "devs": "Developers"
+  },
+  "landing": {
+    "about": "ABOUT SITE",
+    "description": "This site was developed as 3 laboratory work, and receiving a subsequent credit.",
+    "button": "List of photographers",
+    "photographerLink": "Photographer page",
+    "photographerOfTheDay": "Photographer of the day",
+    "search": "Search"
+  }
+}

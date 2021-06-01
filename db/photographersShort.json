@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": {
+        "ru": "Александр Алексеевич Алексеев",
+        "en": "Alexander Alekseevich Alekseev"
+      },
+      "dob": "14.11.1978",
+      "dod": {
+        "ru": "настоящее время",
+        "en": "now"
+      },
+      "description": {
+        "ru": "Белорусский фотограф, издатель, дизайнер, журналист, режиссёр, кандидат экономических наук.",
+        "en": "Belarusian photographer, publisher, designer, journalist, director, candidate of economic sciences."
+      },
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aliaksandr_Aliakseyeu.jpg/411px-Aliaksandr_Aliakseyeu.jpg"
+    },
+    {
+      "id": 1,
+      "name": {
+        "ru": "Юрий Сергеевич Васильев",
+        "en": "Yuri Sergeevich Vasiliev"
+      },
+      "dob": "25.04.1939",
+      "dod": {
+        "ru": "18.01.2018",
+        "en": "18.01.2018"
+      },
+      "description": {
+        "ru": "Белорусский фотограф и общественный деятель, Заслуженный работник культуры Республики Беларусь (1992), преподаватель истории фотографии.",
+        "en": "Belarusian photographer and public figure, Honored Worker of Culture of the Republic of Belarus (1992), teacher of the history of photography."
+      },
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yuri_Vasyliev.jpg/411px-Yuri_Vasyliev.jpg"
+    },
+    {
+      "id": 2,
+      "name": {
+        "ru": "Сергей Иванович Кожемякинй",
+        "en": "Сергей Иванович Кожемякинй"
+      },
+      "dob": "25.11.1956",
+      "dod": {
+        "ru": "настоящее время",
+        "en": "now"
+      },
+      "description": {
+        "ru": "Белорусский фотограф, преподаватель истории фотографии.",
+        "en": "Belarusian photographer, teacher of the history of photography."
+      },
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D0%BE%D0%B6%D0%B5%D0%BC%D1%8F%D0%BA%D0%B8%D0%BD.jpg/411px-%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D0%BE%D0%B6%D0%B5%D0%BC%D1%8F%D0%BA%D0%B8%D0%BD.jpg"
+    }
+  ]
+}

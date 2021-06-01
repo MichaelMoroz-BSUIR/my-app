@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "longDescription": {
+        "ru": "Александр Алексеевич Алексеев (14 ноября 1978 — настоящее время) — белорусский фотограф, издатель, дизайнер, журналист, режиссёр, кандидат экономических наук.",
+        "en": "Alexander Alekseevich Alekseev (November 14, 1978 - now) - Belarusian photographer, publisher, designer, journalist, director, candidate of economic sciences."
+      },
+      "bio": [
+        {
+          "date": "14.11.1978",
+          "title": {
+            "ru": "Рождение",
+            "en": "Birth"
+          },
+          "text": {
+            "ru": "Родился в Казани, в семье военнослужащего.",
+            "en": "Born in Kazan, in a military family."
+          }
+        },
+        {
+          "date": "2000",
+          "title": {
+            "ru": "Образование",
+            "en": "Education"
+          },
+          "text": {
+            "ru": "Закончил факультет менеджмента Белорусского государственного экономического университета.",
+            "en": "Graduated from the Faculty of Management of the Belarusian State Economic University."
+          }
+        },
+        {
+          "date": "2007",
+          "title": {
+            "ru": "Работа",
+            "en": "Work"
+          },
+          "text": {
+            "ru": "Является белорусским издателем. Совместно с Олегом Лукашевичем организовал открытие первого Национального павильона Республики Беларусь на 64 Каннском кинофестивале.",
+            "en": "Is a Belarusian publisher. Together with Oleg Lukashevich, he organized the opening of the first National Pavilion of the Republic of Belarus at the 64th Cannes Film Festival."
+          }
+        }
+      ],
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/59/Aleh_Lukashevich.Paris.2014.jpg",
+        "https://wedwillow.ru/upload/images/2017/03/02/pwl/8ca2663e95dee5890991c756df43b77b.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%D0%9F%D1%80%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82._%D0%90%D0%BA%D0%B0%D0%B4%D1%8D%D0%BC%D1%96%D1%8F_%D0%BC%D0%B0%D1%81%D1%82%D0%B0%D1%86%D1%82%D0%B2%D0%B0%D1%9E.jpg/1280px-%D0%9F%D1%80%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82._%D0%90%D0%BA%D0%B0%D0%B4%D1%8D%D0%BC%D1%96%D1%8F_%D0%BC%D0%B0%D1%81%D1%82%D0%B0%D1%86%D1%82%D0%B2%D0%B0%D1%9E.jpg"
+      ],
+      "video": "0J6wW2BinNs",
+      "location": "!1m18!1m12!1m3!1d246946.97473884822!2d48.98651201234843!3d55.75601327038806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x415ead2b7caccd99%3A0x7fcb77b9b5ad8c65!2z0JrQsNC30LDQvdGMLCDQoNC10YHQvy4g0KLQsNGC0LDRgNGB0YLQsNC9LCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1622475138959!5m2!1sru!2sby"
+    },
+    {
+      "id": 1,
+      "longDescription": {
+        "ru": "Юрий Сергеевич Васильев (25 апреля 1939, г. Петрокрепость, СССР — 18 января 2018 года, Минск, Беларусь) — белорусский фотограф и общественный деятель, Заслуженный работник культуры Республики Беларусь (1992), преподаватель истории фотографии.",
+        "en": "Yuri Sergeevich Vasiliev (April 25, 1939, Petrokrepost, USSR - January 18, 2018, Minsk, Belarus) - Belarusian photographer and public figure, Honored Worker of Culture of the Republic of Belarus (1992), teacher of the history of photography."
+      },
+      "bio": [
+        {
+          "date": "25.04.1939",
+          "title": {
+            "ru": "Рождение",
+            "en": "Birth"
+          },
+          "text": {
+            "ru": "Родился в городе Петрокрепость. Отец Васильев Сергей Николаевич (1913—1975) работал в системе Госбезопасности, был участником боевых действий во время Второй мировой войны. имел боевые награды. Вышел на пенсию в звании подполковника. Мать, Васильева Надежда Георгиевна (1915—2005) была домохозяйкой.",
+            "en": "Born in the city of Petrokrepost. Father Vasiliev Sergei Nikolaevich (1913-1975) worked in the State Security system, was a participant in hostilities during the Second World War. had military awards. He retired with the rank of lieutenant colonel. Mother, Vasilyeva Nadezhda Georgievna (1915-2005) was a housewife."
+          }
+        },
+        {
+          "date": "1946",
+          "title": {
+            "ru": "Образование",
+            "en": "Return to Italy"
+          },
+          "text": {
+            "ru": "После окончания средней школы в городе Липецк в 1946 г. поступил в Пензенский политехнический институт по специальности «Вычислительная техника», который окончил в 1961 г.",
+            "en": "After graduating from high school in the city of Lipetsk in 1946, he entered the Penza Polytechnic Institute with a degree in Computer Science, from which he graduated in 1961."
+          }
+        },
+        {
+          "date": "1961",
+          "title": {
+            "ru": "Работа",
+            "en": "Work"
+          },
+          "text": {
+            "ru": "В 1961—2004 гг. работал на инженерных должностях по специальности.",
+            "en": "In 1961-2004. worked in engineering positions in his specialty."
+          }
+        },
+        {
+          "date": "1971",
+          "title": {
+            "ru": "Деятельность",
+            "en": "Activities"
+          },
+          "text": {
+            "ru": "С 1971 года являлся куратором многочисленных фотовыставок, в том числе, зарубежных. Член фотоклуба «Мінск» с 1965 года. В 1978—1999 годах — председатель и художественный руководитель фотоклуба «Мінск». Ю. С. Васильев 5 лет являлся смотрителем музея-галереи «Мир фото». При его участии было организовано 80 фотовыставок.",
+            "en": "Since 1971, he has been the curator of numerous photo exhibitions, including foreign ones. Member of the Minsk photo club since 1965. 1978-1999 - Chairman and Artistic Director of the Minsk photo club. Yu. S. Vasiliev was the caretaker of the World of Photo Museum-Gallery for 5 years. With his participation, 80 photo exhibitions were organized."
+          }
+        },
+        {
+          "date": "18.01.2018",
+          "title": {
+            "ru": "Смерть",
+            "en": "Death"
+          },
+          "text": {
+            "ru": "18 января в Минске умер 79-летний фотограф Юрий Васильев. Прощание с Юрием Сергеевичем, как пишет его коллега фотограф Сергей Михаленко, состоится 20 января, в субботу, с 9:45 до 11:00 в ритуальном зале №1 на Ольшевского, 12. В 11:30 – прощание в крематории на Северном кладбище.",
+            "en": "On January 18, 79-year-old photographer Yuri Vasiliev died in Minsk. Farewell to Yuri Sergeevich, as his colleague photographer Sergei Mikhalenko writes, will take place on Saturday, January 20, from 9:45 to 11:00 in the ritual hall №1 on Olshevsky, 12. At 11:30 - farewell in the crematorium at the Northern Cemetery."
+          }
+        }
+      ],
+      "photos": [
+        "https://znyata.com/images/stories/news2018/vasilev10.jpg",
+        "https://znyata.com/images/stories/news2018/vasilev6.jpg",
+        "https://znyata.com/images/stories/news2018/vasilev17.jpg"
+      ],
+      "video": "DakV337qX6U",
+      "location": "!1m18!1m12!1m3!1d15989.569714309891!2d31.020381897828077!3d59.93718289003069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46bd7f30f81e036f%3A0xa9707e6e8a16a166!2z0KjQu9C40YHRgdC10LvRjNCx0YPRgNCzLCDQm9C10L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LsuLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1622479331178!5m2!1sru!2sby"
+    },
+    {
+      "id": 2,
+      "longDescription": {
+        "ru": "Сергей Иванович Кожемякинй (20 ноября 1956 года, г. Изяслав, Хмельницкая обл., СССР) — член совета БОО \"Фотоискусство\", в настоящее время - преподаватель истории фотографии.",
+        "en": "Sergei Ivanovich Kozhemyakin (November 20, 1956, Izyaslav, Khmelnytsky region, USSR) - member of the board of the BOO \"Photography\", currently - a teacher of the history of photography."
+      },
+      "bio": [
+        {
+          "date": "20.11.1956",
+          "title": {
+            "ru": "Рождение",
+            "en": "Birth"
+          },
+          "text": {
+            "ru": "Сергей Кожемякин родился в городе Изяславль Хмельницкой области. Отец, Кожемякин Иван Захарович (1926—2006) был кадровым военным, участником боевых действий во время Второй мировой войны. Мать, Кожемякина Анастасия Васильевна (1924—2008), работала фармацевтом.",
+            "en": "Sergey Kozhemyakin was born in the city of Izyaslavl, Khmelnytsky region. Father, Kozhemyakin Ivan Zakharovich (1926-2006) was a career soldier, a participant in hostilities during the Second World War. Mother, Kozhemyakina Anastasia Vasilievna (1924-2008), worked as a pharmacist."
+          }
+        },
+        {
+          "date": "1974",
+          "title": {
+            "ru": "Образование",
+            "en": "Education"
+          },
+          "text": {
+            "ru": "После окончания средней школы в городе Кечкемет (Венгрия), в 1974 году поступил на учёбу в Белорусский политехнический институт (ныне Белорусский национальный технический университет) на машиностроительный факультет по специальности «Технология машиностроения», который окончил в 1979 году.",
+            "en": "After graduating from high school in the city of Kecskemet (Hungary), in 1974 he entered the Belarusian Polytechnic Institute (now the Belarusian National Technical University) at the Faculty of Mechanical Engineering with a degree in Mechanical Engineering Technology, which he graduated in 1979."
+          }
+        },
+        {
+          "date": "1979",
+          "title": {
+            "ru": "Работа",
+            "en": "Work"
+          },
+          "text": {
+            "ru": "В 1979—1994 гг. работал на инженерных должностях по специальности.",
+            "en": "In 1979-1994. worked in engineering positions in his specialty."
+          }
+        },
+        {
+          "date": "1992",
+          "title": {
+            "ru": "Творчество",
+            "en": "Creation"
+          },
+          "text": {
+            "ru": "Область интересов автора — творческая и документальная фотография. В своих работах Сергей Кожемякин использует анонимные и личные фотоархивы для создания серий концептуальных фотографий, ручное тонирование, радикальное кадрирование, секвенции. Работам свойственны аналитичность и философское обобщение. В образах соединяются персонифицированная память и рациональный анализ социальных явлений. С 2004 года преподавал курс по истории фотографии в БГУ, Академии искусств, частных учебных заведениях. В 2017 вошел в шорт-лист номинантов на национальную премию в области изобразительного искусства Беларуси.",
+            "en": "The author's area of \u200B\u200Binterest is creative and documentary photography. In his works, Sergey Kozhemyakin uses anonymous and personal photo archives to create a series of conceptual photographs, manual toning, radical framing, and sequences. The works are characterized by analyticity and philosophical generalization. The images combine personalized memory and rational analysis of social phenomena. Since 2004, he taught a course on the history of photography at the Belarusian State University, the Academy of Arts, and private educational institutions. In 2017 he entered the short list of nominees for the national award in the field of fine arts of Belarus."
+          }
+        }
+      ],
+      "photos": [
+        "https://znyata.by/images/stories/interview/kozhemjakin/sk_11_4.jpg",
+        "https://znyata.by/images/stories/interview/kozhemjakin/sk_11_2.jpg",
+        "https://znyata.by/images/stories/interview/kozhemjakin/sk_11_8.jpg",
+        "https://znyata.by/images/stories/interview/kozhemjakin/sk_13_8.jpg"
+      ],
+      "video": "IgBib5FNJN4",
+      "location": "!1m18!1m12!1m3!1d20466.040187994466!2d26.803839871922712!3d50.11894968356815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x472e5c33b4282055%3A0x1dd2c6960a1bd6f!2z0JjQt9GP0YHQu9Cw0LIsINCl0LzQtdC70YzQvdC40YbQutCw0Y8g0L7QsdC70LDRgdGC0YwsINCj0LrRgNCw0LjQvdCwLCAzMDMwMg!5e0!3m2!1sru!2sby!4v1622480338985!5m2!1sru!2sby"
+    }
+  ]
+}
