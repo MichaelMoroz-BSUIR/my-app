@@ -11,6 +11,8 @@
     "button": "Список фотографов",
     "photographerLink": "Страница фотографа",
     "photographerOfTheDay": "Фотограф дня",
-    "search": "Поиск"
+    "search": "Поиск",
+    "count1" : "ДАТА",
+    "count2" : "ИМЯ"
   }
 }

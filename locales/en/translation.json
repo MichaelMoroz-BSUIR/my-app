@@ -11,6 +11,8 @@
     "button": "List of photographers",
     "photographerLink": "Photographer page",
     "photographerOfTheDay": "Photographer of the day",
-    "search": "Search"
+    "search": "Search",
+    "count1": "DATE",
+    "count2": "NAME"
   }
 }
